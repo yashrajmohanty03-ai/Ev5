@@ -351,6 +351,8 @@ The dashboard successfully:
 - Generated an insightful dual-axis dashboard
 
 ---
+## Output
+![image alt](https://github.com/yashrajmohanty03-ai/Ev5/blob/e5a66e5425ac06fcdcc07b813401272b35576d4a/op5.png)
 
 ## Conclusion
 
